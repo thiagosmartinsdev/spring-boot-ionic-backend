@@ -1,6 +1,5 @@
 package com.tkapps.cursomc.services;
 
-import java.util.Observable;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
